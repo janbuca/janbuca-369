@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/janbuca-369/static/css/main.f84d3de6.css",
+    "main.js": "/janbuca-369/static/js/main.ccd65ec6.js",
+    "static/js/787.a905f1ce.chunk.js": "/janbuca-369/static/js/787.a905f1ce.chunk.js",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/janbuca-369/static/media/Soumyajit_Behera-BIT_MESRA.bdb3265ab80113ff2c01.pdf",
+    "static/media/coming soon.jpg": "/janbuca-369/static/media/coming soon.31b2ad9db99c33147227.jpg",
+    "static/media/suicide.png": "/janbuca-369/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/about.png": "/janbuca-369/static/media/about.618844a7f90203f47e01.png",
+    "static/media/home-main.svg": "/janbuca-369/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/img (1).jpg": "/janbuca-369/static/media/img (1).e375524d50c9d0b9f699.jpg",
+    "static/media/Evangadi-forum.png": "/janbuca-369/static/media/Evangadi-forum.1472c1b46fdd1274bc43.png",
+    "static/media/amazon.jpg": "/janbuca-369/static/media/amazon.d5bdec205a6bc955fcdb.jpg",
+    "static/media/home-bg.jpg": "/janbuca-369/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/janbuca-369/static/media/logo.3ff985c785d3a273f6f4.png",
+    "static/media/10001.png": "/janbuca-369/static/media/10001.303904f75553a51bbf31.png",
+    "static/media/avatar.svg": "/janbuca-369/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/janbuca-369/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/janbuca-369/index.html",
+    "main.f84d3de6.css.map": "/janbuca-369/static/css/main.f84d3de6.css.map",
+    "main.ccd65ec6.js.map": "/janbuca-369/static/js/main.ccd65ec6.js.map",
+    "787.a905f1ce.chunk.js.map": "/janbuca-369/static/js/787.a905f1ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f84d3de6.css",
+    "static/js/main.ccd65ec6.js"
+  ]
+}
